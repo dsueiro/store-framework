@@ -43,5 +43,11 @@
     "children": [ "search-content" ],
     "props": { 
     }
+  },
+  "search-content": {
+    "blocks": ["gallery", "not-found"]
+  },
+  "gallery": {
+    "blocks": ["product-summary.shelf"]
   }
 }
