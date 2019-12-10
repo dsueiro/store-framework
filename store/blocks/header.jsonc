@@ -7,6 +7,16 @@
           "search-bar"
         ]
      },
+     "header": {
+        "blocks": [
+          "login",
+          "minicart",
+          "logo",
+          "search-bar",
+          "header-layout.desktop",
+          "header-layout.mobile"
+        ]
+     },
     "header-row#notification": {
         "children": [
           "header-spacer",
